@@ -60,7 +60,6 @@ h3{
     width:50%;
    text-align: center;
 }
-
 @media screen and (max-width:770px){
     #container{
 		width: 100%;
@@ -106,17 +105,16 @@ h3{
     .trigger.active span:nth-of-type(1) {
         transform: scaleX(1.4);  
         background-color: brown;  
-}
-.trigger.active span:nth-of-type(2) {
+        }
+    .trigger.active span:nth-of-type(2) {
         transform: scaleX(1.2);  
         background-color: brown; 
-}
-.trigger.active span:nth-of-type(3) {
+        }
+    .trigger.active span:nth-of-type(3) {
         transform: scaleX(1.4);  
         background-color: brown; 
-}
-
-.hNavWrap {
+        }
+    .hNavWrap {
 	padding: 100px;
 	width: 50px;
 	height: 100%;
@@ -133,7 +131,7 @@ h3{
 }
 }
 @media screen and (max-width:480px){
-	#container{
-		width: 100%;
-	}
+#container{
+	width: 100%;
+}
 }
