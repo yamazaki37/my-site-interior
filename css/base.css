@@ -78,17 +78,6 @@ main h3 {
     line-height: 2.4;
     letter-spacing: 2px;
 }
-.pagetop {
-	position: fixed;
-	bottom: 30px;
-	right: 30px;
-	padding: 6px;
-	border-radius: 20px;
-    opacity: .6;
-    background:#F2F0E9;
-    color: #333;
-    border: 2px solid #555;
-}
 .bx-wrapper {
     width: 800px;
     margin: 0 auto;
