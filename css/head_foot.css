@@ -75,3 +75,11 @@ footer li {
     font-size: 0.4rem;
 }
 }
+@media screen and (max-width:480px){
+    .header_box img {
+        width:80%;
+    }
+    .footer_box img {
+        width: 80%;
+    }
+}
