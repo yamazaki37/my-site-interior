@@ -51,3 +51,27 @@ footer img {
     margin: 0 10px;
     line-height: 1.8;
 }
+@media screen and (max-width: 1024px){
+footer {
+    width:100%;
+}
+footer li {
+    font-size: 0.6rem;
+}
+}
+@media screen and (max-width:770px){
+.footer_box {
+    width:100%;
+}
+.footer_box img {
+    width: 100%;
+    margin: 0 auto;
+}
+.footer_box ul {
+    width: 100%;
+    margin-left:  50px;
+}
+footer li {
+    font-size: 0.4rem;
+}
+}
